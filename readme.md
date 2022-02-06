@@ -2,20 +2,20 @@
 <h4 align="center">A solution oriented individual, craftsman of idiomatic codes, love to collaborate with exceptional minds and worship pragmatism!</h4>
 <br>
 
-- 🌱 I’m currently learning **Concurrency, Docker, Apache Kafka**.
+- 🌱 I’m currently learning **Concurrent Programming, Docker, Apache Kafka**.
 
 - 👨‍💻 Previously worked at [BJIT Corp](https://bjitgroup.com/).
 
 - 💬 Ask me about **Go, Concurrent Programming, PostgreSQL, Docker**.
 
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/ashtishad/).
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/ashtishad).
 
 - ⚡ Fun fact **I love to sing and play ukulele.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashefhabib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashefhabib" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ashef-tishad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashef-tishad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashtishad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashef-tishad" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14533362/ashef-habib-tishad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashef-tishad" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gopher-ash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gopher-ash" height="30" width="40" /></a>
 </p>
 
