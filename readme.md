@@ -1,32 +1,20 @@
-<h1 align="center">Hi 👋, I'm Tishad</h1>
-<h4 align="center">A solution oriented individual, craftsman of idiomatic codes, love to collaborate with exceptional minds and worship pragmatism!</h4>
+<h1 align="center">Hi, I'm Ashef <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a></h1>
 <br>
 
-- 🌱 I’m currently learning **Concurrent Programming, Docker, Apache Kafka**.
+- 🌱 I’m currently learning **Concurrent Programming and Distributed Systems**.
 
 - 👨‍💻 Previously worked at [BJIT Corp](https://bjitgroup.com/).
 
-- 💬 Ask me about **Go, Concurrent Programming, PostgreSQL, Docker**.
+- 💬 Ask me about **Go, Concurrent Programming, Distributed Systems and PostgreSQL**.
 
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/ashtishad).
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/ashef) or [Twitter](https://twitter.com/ashef_tishad).
 
-- ⚡ Fun fact **I love to sing and play ukulele.**
+- ⚡ Fun fact **I love to sing, play ukulele and up for chess.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ashtishad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashef-tishad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashef" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashef" height="30" width="40" /></a>
+<a href="https://twitter.com/ashef_tishad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashef_tishad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14533362/ashef-habib-tishad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ashef-tishad" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gopher-ash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gopher-ash" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashtishad&show_icons=true&locale=en&layout=compact" alt="ashtishad" /></p>
