@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Concurrent Programming and Distributed Systems**.
 
-- 👨‍💻 Currently working at [Mobble](https://www.mobble.io/).
+- 👨‍💻 Worked at [Mobble](https://www.mobble.io/) and [BJIT Corp](https://bjitgroup.com/clients)
 
 - 💬 Ask me about **Go, Concurrent Programming, Distributed Systems and PostgreSQL**.
 
