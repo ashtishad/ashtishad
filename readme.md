@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Ashef <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a></h1>
 <br>
 
+With 4 years of dedicated experience in the Golang space, I specialize in developing high-traffic solutions, such as Rakuten Travel, METSO E-Commerce, and Mobble Farm Management. I've played a pivotal role in developing low-latency solutions that handle over 1 million daily API hits with a remarkable 99.99% SLO. My role has consistently involved taking ownership of projects under aggressive schedules, regularly engaging with cross-functional stakeholders, and demonstrating strong collaboration.
+
 - 🌱 Exploring the Realms of Golang, Concurrent Programming and Distributed Systems.
 
 - 👨‍💻 Four Years of Professional Experience at [Mobble](https://www.mobble.io/), [BJIT Corp](https://bjitgroup.com/clients) and  several part-time projects.
@@ -14,10 +16,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashtishad&" alt="ashtishad" /></p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ashef?theme=dark&font=Noto%20Serif%20Devanagari)
-
-<h3 align="left">Links</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ashef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashef" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashef" height="30" width="40" /></a>
-<a href="https://www.facebook.com/asheftishad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ashef" height="30" width="40" /></a>
-</p>
