@@ -13,4 +13,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashtishad&" alt="ashtishad" /></p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ashef?theme=dark&font=Noto%20Serif%20Devanagari)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ashef?theme=default&font=Noto%20Serif%20Devanagari)
