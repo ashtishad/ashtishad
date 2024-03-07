@@ -12,5 +12,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashtishad&show_icons=true&locale=en&layout=compact" alt="ashtishad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashtishad&" alt="ashtishad" /></p>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/ashef?theme=default&font=Noto%20Serif%20Devanagari)
