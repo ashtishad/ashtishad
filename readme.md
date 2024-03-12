@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ashef <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a></h1>
+<h1 align="center">Hi, I'm Ashef </h1>
 <br>
 
 - 🌱 Exploring the Realms of Golang, Concurrent Programming and Distributed Systems.
