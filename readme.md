@@ -3,7 +3,7 @@
 
 - 🌱 Exploring the Realms of Golang, Concurrent Programming and Distributed Systems.
 
-- 👨‍💻 Four Years of Professional Experience at [Mobble](https://www.mobble.io/), [BJIT Group](https://bjitgroup.com/clients) and  several part-time gigs.
+- 👨‍💻 4 Years of Professional Experience at [Mobble](https://www.mobble.io/), [BJIT Group](https://bjitgroup.com/clients) and  several part-time projects.
 
 - 📫 Connect with Me on [LinkedIn](https://www.linkedin.com/in/ashef).
 
