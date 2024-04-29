@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,docker,postgresql,aws,kafka&theme=light" />
+  </a>
+</p>
+
 <h1 align="center">Hi, I'm Ashef </h1>
 <br>
 
@@ -11,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashtishad&layout=compact" alt="ashtishad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashtishad&" alt="ashtishad" /></p>
+<p><img align="center" src="https://leetcard.jacoblin.cool/ashef?theme=light&font=Open%20Sans&ext=contest&show_rank=false" alt="ashtishad" /></p>
