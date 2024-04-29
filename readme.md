@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/ashef/">
     <img src="https://skillicons.dev/icons?i=go,docker,postgresql,aws,kafka&theme=light" />
   </a>
 </p>
@@ -11,7 +11,7 @@
 
 - 👨‍💻 4 Years of Professional Experience at [Mobble](https://www.mobble.io/), [BJIT Group](https://bjitgroup.com/clients) and  several part-time projects.
 
-- 📫 Connect with Me on [LinkedIn](https://www.linkedin.com/in/ashef).
+- 📫 Connect with Me on [LinkedIn](https://www.linkedin.com/in/ashef), [X](https://twitter.com/ashefgo).
 
 - 🎸 Fun Fact: Passionate about Singing, Playing Guitar, and Always Ready for a Game of Chess.
 
