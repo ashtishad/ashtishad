@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  🌟 Ranked in the <a href="https://leetcode.com/u/ashef/">top 10%</a> of Leetcode contest participants worldwide.
+  🌟 Ranked in the <a href="https://leetcode.com/u/ashef/">Top 7%</a> of Leetcode contest participants worldwide.
 </p>
 
 <p align="left">
