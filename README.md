@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashef/">
+    <img src="https://skillicons.dev/icons?i=go,docker,kubernetes,postgresql,aws,kafka&theme=light" alt="Skills" />
+  </a>
+</p>
 
-<!--
-**ashtishad/ashtishad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Ashef</h1>
 
-Here are some ideas to get you started:
+<div align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 5+ years of experience developing scalable, high-traffic Fintech & E-commerce solutions at [XM](https://www.xm.com/), [Mobble](https://www.mobble.io/) & [BJIT Group](https://bjitgroup.com/clients).
+
+🌟 Ranked in the [Top 7%](https://leetcode.com/u/ashef/) of Leetcode contest participants worldwide.
+
+🌱 **Exploring:** Go, Fintech, Concurrent Programming, and Distributed Systems.
+
+📫 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/ashef) | [X](https://x.com/ashefgo) | [Linktree](https://linktr.ee/ashef)
+
+🎸 **Fun Fact:** Passionate about singing, playing Guitar, and always ready for a game of chess.
+
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashtishad&layout=compact&theme=light" alt="ashtishad's Top Languages" />
+</p>
